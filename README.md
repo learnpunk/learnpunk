@@ -1,16 +1,43 @@
-## Hi there 👋
+# 🏛️ LearnPunk | José Lucas
 
-<!--
-**learnpunk/learnpunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao quartel-general da **LearnPunk**. Sou um desenvolvedor de Sistemas de Informação (reta final), mergulhando na graduação autodidata de **Matemática** para elevar o nível da minha engenharia de software.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 O que estou construindo (Building in Public)
+
+Atualmente focado no desenvolvimento de sistemas **Offline-First**. Meu objetivo é criar arquiteturas onde a **Fonte da Verdade** reside no dispositivo do usuário, garantindo autonomia, privacidade e "zero" latência.
+
+- 🛠️ **Projeto Principal:** Em segredo ainda.
+- 📐 **Matemática:** Documentando meu progresso na [grade](https://github.com/Universidade-Livre/matematica) da [ulivre.dev](https://ulivre.dev).
+
+---
+
+### 🎓 Jornada de Estudos (UBL - Matemática)
+
+- [ ] Gerarei ainda a Checklist...
+*(Vou marcando conforme avanço nos vídeos do canal!)*
+
+---
+
+### 📺 Acompanhe a "Pressão Positiva"
+
+Documento toda a minha jornada de estudos e os bastidores do código no YouTube. Se você busca independência no aprendizado e na tecnologia, junte-se à resistência.
+
+👉 [**Assine o Canal LearnPunk**](https://www.youtube.com/@LearnPunk)
+
+---
+
+### 🛠️ Tech Stack & Ferramentas
+
+- **Linguagens:** TypeScript, Rust, Python
+- **Arquitetura:** Offline-First, Local-First, PWA.
+- **Ambiente:** Linux.
+
+---
+
+### 📬 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io)](www.linkedin.com/in/learn-punk-a09a843a6)
+[![YouTube](https://img.shields.io)](https://www.youtube.com/@LearnPunk)
+[![X](https://img.shields.io)](https://x.com/LearnPunk)
