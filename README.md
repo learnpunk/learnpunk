@@ -35,9 +35,3 @@ Documento toda a minha jornada de estudos e os bastidores do código no YouTube.
 - **Ambiente:** Linux.
 
 ---
-
-### 📬 Conecte-se comigo
-
-[![LinkedIn](https://img.shields.io)](www.linkedin.com/in/learn-punk-a09a843a6)
-[![YouTube](https://img.shields.io)](https://www.youtube.com/@LearnPunk)
-[![X](https://img.shields.io)](https://x.com/LearnPunk)
